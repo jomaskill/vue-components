@@ -1,6 +1,6 @@
 
 
-Esse código foi utilizado para a criação do curso [Vue 2 - Iniciando com Componentes](https://www.schoolofnet.com/curso/frontend/vuejs/vue-2-iniciando-com-componentes/) da School of Net.
+Esse código foi utilizado para a criação do curso [Iniciando com Vue.js 2.](https://www.schoolofnet.com/curso/frontend/vuejs/iniciando-com-vuejs-2-rev3/) da School of Net.
 
 A School of Net é uma escola online que ensina as mais diversas tecnologias no mundo da programação, desenvolvimento web, games, design e infraestrutura.
 
@@ -10,4 +10,4 @@ Blog da School of Net - [https://blog.schoolofnet.com](https://blog.schoolofnet.
 
 SONCast - Podcast da School of Net - [https://podcast.schoolofnet.com](https://podcast.schoolofnet.com)
 
-Canal da School of Net no Youtube: [http://www.youtube.com/c/SchoolofNetCursos](http://www.youtube.com/c/SchoolofNetCursos)# vue-components
+Canal da School of Net no Youtube: [http://www.youtube.com/c/SchoolofNetCursos](http://www.youtube.com/c/SchoolofNetCursos)
